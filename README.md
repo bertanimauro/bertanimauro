@@ -1,7 +1,7 @@
 I'm Mauro Bertani. I'm a warehouse worker with knowledge in library and computer science.
 
 My academia profile:
-https://independent.academia.edu/Mauro_Bertani
+https://independent.academia.edu/Bertani_Mauro
 
 
 <!---
