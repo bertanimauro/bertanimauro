@@ -1,4 +1,4 @@
-I'm Mauro Bertani. I'm a warehouse worker with knowledge in library and computer science.
+Specializing in library science and faceted classification. Passionate about mapping knowledge structures through the rigorous lenses of Formal Concept Analysis, Boolean algebra, and First-Order Logic.
 
 My academia profile:
 https://independent.academia.edu/Bertani_Mauro
